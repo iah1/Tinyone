@@ -1,0 +1,80 @@
+section:==============>>> 🌳🌳🌳
+header, slider, feature, contact, footer
+
+
+fonts:=================>>> 🌳🌳🌳
+PT Sans regular and bold
+
+
+font-size:===============>>> 🌳🌳🌳
+32px, 22px, 20px, 16px
+
+
+colors:==================>>> 🌳🌳🌳 
+#fcdb00, #010101, #313841, #555555, #898989
+
+
+responsive css:===========>>> 🌳🌳🌳
+part-1 : xxl -1440 -1600 -1800 -2100 
+	     xl -1200
+	     lg -1024
+
+part 2: 
+	     md -768
+
+prt 3:
+	     sm -576
+	     col -320
+
+
+           xxl/xl/lg       md             sm/col
+          (100-120)      (80-90)         (50-70) 
+padding:==========================================
+
+menu:------------->>>> 🔥🔥🔥   
+padding-      22px         22px         20px         
+
+header:------------>>>> 🔥🔥🔥
+header_area-  20px          20px          /10px(col)
+
+slider:------------->>>> 🔥🔥🔥
+slider_area   100px         100px          60px/
+
+h1:-
+font-size-    32px          32px           25px/     
+
+h2:-
+padding-      20px          20px            10px/
+font-size-    20px          20px            19px/
+
+ p:-
+ padding-     35px          35px            20px/
+
+ icons:-
+ font-size-   42px          42px            35px/
+ margin-      30px          30px            20px/
+
+
+features:------------>>>> 🔥🔥🔥
+feature_area:-
+padding-top-  100px         80px             50px 
+padding-bottom- 120px       100px            70px 
+
+heading:-
+h1-           32px         32px               25px
+p-            20px         20px               17px 
+
+single-item:-
+margin-top-   70px         50px               30px
+icons-        50px         50px               35px
+h2-           22px         22px               20px
+p-            16px         16px               16px
+ 
+contact:------------->>> 🔥🔥🔥
+contact_area:-
+padding-top-  100px         80px             50px 
+padding-bottom- 120px       100px            70px 
+
+footer:------------->>> 🔥🔥🔥
+footer_area:-
+padding-bottom- 120px       100px            70px 
