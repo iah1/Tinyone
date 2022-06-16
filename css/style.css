@@ -15,7 +15,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     color: #898989;
-    padding-top: 93px;
+    padding-top: 73px;
 }
 
 /* common css start */
@@ -31,7 +31,7 @@ body {
 /* header area start */
 .header_area {
     background-color: #fcdb00;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 .header_area .c_nav .menu ul li a {
